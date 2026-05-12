@@ -17,7 +17,7 @@ Technology professional with 10+ years of experience leading cybersecurity and I
 🚀 Passionate about leveraging **AI** to build more resilient and intelligent systems. 
 
 👨‍💻 I'm learning about:
-![AI](https://img.shields.io/badge/AI-Bot-FF69B4?style=plastic&logo=openai&logoColor=white)
+![AI](https://img.shields.io/badge/AI-100000?style=plastic&logo=claude&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Crypto-F7931A?style=plastic&logo=bitcoin&logoColor=white)
 
 🤔 I would like to learn a little about:
