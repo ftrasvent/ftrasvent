@@ -5,18 +5,19 @@
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white&link=https://github.com/ftrasvent)](https://github.com/ftrasvent)
 
 ---
+# 👨🏽‍💻 About me
 
-🚀 I'm starting in my **Software Development** career.
+🚀 I'm starting in my **AI** career.
 
 ✔️ My current job is a Technology Director in a CyberSecurity Company.
 
 👨‍💻 I'm learning about:
-![Claude](https://img.shields.io/badge/AI-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/Crypto-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Claude](https://img.shields.io/badge/AI-D97757?style=plastic&logo=claude&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/Crypto-F7931A?style=plastic&logo=bitcoin&logoColor=white)
 
 🤔 I would like to learn a little about:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=plastic&logo=swift&logoColor=white)
 
 🤓 My goal is to know the fundamentals of these topics and specialize in AI!!!
 
