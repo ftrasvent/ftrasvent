@@ -10,6 +10,10 @@
 
 Technology professional with 10+ years of experience leading cybersecurity and IT operations. I specialize in strengthening organizational security posture through strategic technology adoption and decisive crisis management.
 
+* **🛡️ Expertise:** Governance, Risk, and Compliance (GRC) & Infrastructure Security.
+* **⛓️ Future-Proofing:** Currently specializing in Web3 Security and Decentralized Systems.
+* **🎯 Mission:** Bridging the gap between traditional enterprise security and the decentralized future.
+
 🚀 Passionate about leveraging **AI** to build more resilient and intelligent systems. 
 
 👨‍💻 I'm learning about:
@@ -19,10 +23,6 @@ Technology professional with 10+ years of experience leading cybersecurity and I
 🤔 I would like to learn a little about:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=plastic&logo=swift&logoColor=white)
-
-* **🛡️ Expertise:** Governance, Risk, and Compliance (GRC) & Infrastructure Security.
-* **⛓️ Future-Proofing:** Currently specializing in Web3 Security and Decentralized Systems.
-* **🎯 Mission:** Bridging the gap between traditional enterprise security and the decentralized future.
 
 ---
 ## 📊 Stats
