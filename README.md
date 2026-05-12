@@ -1,5 +1,5 @@
 ### Hi! I'm Fernando 🙌
-### 🛡️ Cybersecurity Leader | Web3 Architect | IT Operations
+### 🛡️ Cybersecurity Leader | Solutions Architect | Business Development
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ftrasvent)](https://www.linkedin.com/in/ftrasvent)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white&link=https://twitter.com/ftrasvent)](https://twitter.com/ftrasvent)
