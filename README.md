@@ -1,28 +1,31 @@
 ### Hi! I'm Fernando 🙌
+### 🛡️ Cybersecurity Leader | Web3 Architect | IT Operations
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ftrasvent)](https://www.linkedin.com/in/ftrasvent)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white&link=https://twitter.com/ftrasvent)](https://twitter.com/ftrasvent)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white&link=https://github.com/ftrasvent)](https://github.com/ftrasvent)
 
 ---
-# 👨🏽‍💻 About me
+## 👨🏽‍💻 About me
 
-🚀 I'm starting in my **AI** career.
+Technology professional with 10+ years of experience leading cybersecurity and IT operations. I specialize in strengthening organizational security posture through strategic technology adoption and decisive crisis management.
 
-✔️ My current job is a Technology Director in a CyberSecurity Company.
+🚀 Passionate about leveraging **AI** to build more resilient and intelligent systems. 
 
 👨‍💻 I'm learning about:
-![Claude](https://img.shields.io/badge/AI-D97757?style=plastic&logo=claude&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Bot-FF69B4?style=plastic&logo=openai&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Crypto-F7931A?style=plastic&logo=bitcoin&logoColor=white)
 
 🤔 I would like to learn a little about:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=plastic&logo=swift&logoColor=white)
 
-🤓 My goal is to know the fundamentals of these topics and specialize in AI!!!
+* **🛡️ Expertise:** Governance, Risk, and Compliance (GRC) & Infrastructure Security.
+* **⛓️ Future-Proofing:** Currently specializing in Web3 Security and Decentralized Systems.
+* **🎯 Mission:** Bridging the gap between traditional enterprise security and the decentralized future.
 
 ---
-# 📊 Stats
+## 📊 Stats
 
 [![Fernando's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ftrasvent&show_icons=true&theme=algolia&count_private=true)](https://github.com/ftrasvent/github-readme-stats)
 
